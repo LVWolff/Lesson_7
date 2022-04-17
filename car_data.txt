@@ -1,0 +1,3 @@
+Nissan juke 8.5 1200000 
+Toyota Hilux 10 3200000 
+Isuzu Mu-x 9 4200000 
